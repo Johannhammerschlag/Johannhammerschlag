@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johannhammerschlag
-- 👀 I’m interested  in  being a developer
+- 
 - 📫 How to reach me  linkedin.com/in/johann-miranda-hammerschlag-52413924
 
 <!---
